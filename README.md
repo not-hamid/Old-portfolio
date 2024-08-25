@@ -9,7 +9,7 @@ Beautiful On-Scroll Animations: A smooth journey for every visitor, with element
 Artistic Blobs: Unique and eye-catching blobs that add a whimsical touch to the design.
 Timeless Design: An old but gold masterpiece, full of charm and creativity.
 How to View
-Clone the repository: git clone https://github.com/yourusername/vintage-portfolio.git
+Clone the repository: git clone https://github.com/not-hamid/vintage-portfolio.git
 Open index.html: Experience the nostalgia in your browser.
 Explore the Design: Enjoy the blend of animations, blobs, and an aesthetic that never goes out of style.
 A Blast from the Past
