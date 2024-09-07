@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg1{
+    height: 20vh;
+    width: 100%;
+    background-color: #20272b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 7rem 0 6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.bg1 .p1{
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+.bg1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 0.9rem;
+    border:1px solid #fff;
+    padding: 0.7rem;
+    transition: all 0.3s ease-in-out;
+}
+.bg1 a:hover{
+    cursor: pointer;
+    background-color: rgb(58, 66, 71);
+    transition: all 0.3s ease-in-out;
+}
+.bg2{
+    height: 10vh;
+    background-color: rgb(225, 225, 225);
+}
+.bg3{
+    height: auto;
+    width: 100%;
+    background-color: rgb(225, 225, 225);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem 0 2rem;
+    column-gap: 2rem;
+    row-gap: 3.5rem;
+}
+.bg3 .grid:nth-child(1){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic1{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/molie.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic1:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.bg3 .grid:nth-child(2){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic2{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/aos.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic2:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.bg3 .grid:nth-child(3){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic3{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/green.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic3:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.bg3 .grid:nth-child(4){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic4{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/parrot.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic4:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.bg3 .grid:nth-child(5){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic5{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/parrot.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic5:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.bg3 .grid:nth-child(6){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic6{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/parrot.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic6:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.bg3 .grid:nth-child(7){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic7{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/parrot.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic7:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.bg3 .grid:nth-child(8){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic8{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/parrot.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic8:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.bg3 .grid:nth-child(9){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic9{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/parrot.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic9:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.bg3 .grid:nth-child(10){
+    height: 65vh;
+    background-color: white;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.349);
+    overflow: hidden;
+}
+.pic10{
+    height: 55vh;
+    width: 100%;
+    background-image: url(../media/parrot.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+}
+.pic10:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
